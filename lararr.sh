@@ -18,3 +18,4 @@ fi
 count=`expr $count + 1`
 done
 echo "The largest of number of the array is $num"
+echo "web hook has been successfully tested"
